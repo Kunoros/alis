@@ -5,8 +5,8 @@ set -eu
 # and customized Arch Linux system.
 # Copyright (C) 2022 picodotdev
 
-GITHUB_USER="picodotdev"
-BRANCH="master"
+GITHUB_USER="kunoros"
+BRANCH="main"
 HASH=""
 
 while getopts "b:h:u:" arg; do
